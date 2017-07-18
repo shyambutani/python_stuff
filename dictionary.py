@@ -1,4 +1,5 @@
 #dictionary demo
+print("My first Python Dictionary Program \n")
 dict = {}
 temp=1
 while temp==1:
