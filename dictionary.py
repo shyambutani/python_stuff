@@ -1,5 +1,5 @@
 #dictionary demo
-print("My first Python Dictionary Program \n")
+print("My first Python Dictionary Program (by Shyam Butani)\n")
 dict = {}
 temp=1
 while temp==1:
